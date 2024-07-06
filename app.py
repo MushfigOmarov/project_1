@@ -1,0 +1,2 @@
+hello = "phthon"
+print(hello)
