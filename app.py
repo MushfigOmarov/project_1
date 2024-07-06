@@ -1,2 +1,1 @@
-hello = "phthon"
-print(hello)
+hello
